@@ -24,5 +24,5 @@ It will check:
 2. Navigate to "restapi-test": $ cd MyProjects/restapi-test
 3. Launch Eclipse, switch to Java Perspective
 4. Import a Maven project, navigate to "restapi-test" folder and choose the **pom.xml** file
-5. In Eclipse's Package Explorer, expand src/test/java/nz.net.catalyst.crashhub.funtion.testsuites
+5. In Eclipse's Package Explorer, expand src/test/java/com.olivia.restapi.actest/CategoriesTest.java
 6. Right-click at "src/test/java/com.olivia.restapi.actest/CategoriesTest.java" and choose 'Run as TestNG Test' 
