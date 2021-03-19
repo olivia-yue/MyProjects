@@ -10,7 +10,8 @@ on:
   pull_request:
     branches: [ master ]
 
-  jobs:
+  workflow_dispatch:
+    jobs:
     Run test:
 
     runs-on: ubuntu-latest
